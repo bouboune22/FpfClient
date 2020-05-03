@@ -1,4 +1,5 @@
-# FpfClient
+# SBClient
+
 How to install Skyblock client
 
 1: Click in the SB client and then Download it 
