@@ -1,13 +1,9 @@
 # FpfClient
 How to install Skyblock client
 
-1: Click in the FPF CLIENT.zip and then Download it and open it with winrar
+1: Click in the SB client and then Download it 
 
-2: Copy the folder and paste that folder in %appdata% .Minecraft inside version's folder
-
-3: Close all minecraft and go to the launcher and search in installations the hypixel client
-
-4: Launch that and the u have it installed
+2. After downloading it, double click and follow the instructions that will open afterwards.
 
 Go to https://i.gyazo.com/8af933f6b9431fcbec7a18eaafb2741d.png to se all the spects
 
