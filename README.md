@@ -1,8 +1,8 @@
-# SBClient
+# SBModd
 
-How to install Skyblock client
+How to install Skyblock mod
 
-1: Click in the SB client and then Download it 
+1: Click in the SB mod and then Download it 
 
 2. After downloading it, double click and follow the instructions that will open afterwards.
 
